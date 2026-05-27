@@ -24,3 +24,13 @@ A collection of troubleshooting methods, CLI commands, and operational best prac
 - Improve troubleshooting skills
 - Build operational knowledge
 - Document common enterprise issues
+
+- ## Skills Covered
+
+- AWS Networking
+- VPC Design
+- Routing & Switching
+- Cloud Infrastructure
+- Network Troubleshooting
+- Git & GitHub
+- Network Documentation
